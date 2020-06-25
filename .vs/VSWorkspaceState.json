@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\backend",
+    "\\src\\backend\\SmartOutlet.WebAPI"
+  ],
+  "SelectedNode": "\\src\\backend\\SmartOutlet.WebAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

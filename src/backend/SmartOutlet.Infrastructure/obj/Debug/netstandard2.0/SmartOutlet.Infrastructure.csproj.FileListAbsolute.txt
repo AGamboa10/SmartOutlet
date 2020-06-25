@@ -1,0 +1,12 @@
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\bin\Debug\netstandard2.0\SmartOutlet.Infrastructure.deps.json
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\bin\Debug\netstandard2.0\SmartOutlet.Infrastructure.dll
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\bin\Debug\netstandard2.0\SmartOutlet.Infrastructure.pdb
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.csprojAssemblyReference.cache
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.AssemblyInfo.cs
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.dll
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.pdb
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\bin\Debug\netstandard2.0\SmartOutlet.Core.dll
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\bin\Debug\netstandard2.0\SmartOutlet.Core.pdb
+C:\Users\AntonioGamboa\SmartOutlet\src\backend\SmartOutlet.Infrastructure\obj\Debug\netstandard2.0\SmartOutlet.Infrastructure.csproj.CopyComplete
